@@ -1,0 +1,11 @@
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.0\Exercicio5.exe
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.0\Exercicio5.deps.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.0\Exercicio5.runtimeconfig.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.0\Exercicio5.runtimeconfig.dev.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.0\Exercicio5.dll
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.0\Exercicio5.pdb
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.0\Exercicio5.csprojAssemblyReference.cache
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.0\Exercicio5.AssemblyInfoInputs.cache
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.0\Exercicio5.AssemblyInfo.cs
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.0\Exercicio5.dll
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\src\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.0\Exercicio5.pdb
