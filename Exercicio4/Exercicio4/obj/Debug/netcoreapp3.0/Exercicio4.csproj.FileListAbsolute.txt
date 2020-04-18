@@ -1,0 +1,11 @@
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.0\Exercicio4.exe
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.0\Exercicio4.deps.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.0\Exercicio4.runtimeconfig.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.0\Exercicio4.runtimeconfig.dev.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.0\Exercicio4.dll
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.0\Exercicio4.pdb
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.0\Exercicio4.csprojAssemblyReference.cache
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.0\Exercicio4.AssemblyInfoInputs.cache
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.0\Exercicio4.AssemblyInfo.cs
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.0\Exercicio4.dll
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.0\Exercicio4.pdb

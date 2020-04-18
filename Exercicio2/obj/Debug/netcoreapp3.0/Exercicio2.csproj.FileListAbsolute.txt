@@ -1,0 +1,11 @@
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\bin\Debug\netcoreapp3.0\Exercicio2.exe
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\bin\Debug\netcoreapp3.0\Exercicio2.deps.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\bin\Debug\netcoreapp3.0\Exercicio2.runtimeconfig.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\bin\Debug\netcoreapp3.0\Exercicio2.runtimeconfig.dev.json
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\bin\Debug\netcoreapp3.0\Exercicio2.dll
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\bin\Debug\netcoreapp3.0\Exercicio2.pdb
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\obj\Debug\netcoreapp3.0\Exercicio2.csprojAssemblyReference.cache
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\obj\Debug\netcoreapp3.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\obj\Debug\netcoreapp3.0\Exercicio2.AssemblyInfo.cs
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\obj\Debug\netcoreapp3.0\Exercicio2.dll
+D:\Dvds\meus\Cursos\17 -Exercicios\ExerciciosCsharp\Exercicio2\obj\Debug\netcoreapp3.0\Exercicio2.pdb
